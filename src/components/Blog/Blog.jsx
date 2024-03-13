@@ -9,6 +9,7 @@ export default function Blog({ blog, handleAddToBookmark, handleMarkAsRead }) {
     posted_date,
     reading_time,
     hashtags,
+    id,
   } = blog;
 
   return (
@@ -58,7 +59,7 @@ export default function Blog({ blog, handleAddToBookmark, handleMarkAsRead }) {
           ))}
         </div>
         <button
-          onClick={() => handleMarkAsRead(reading_time)}
+          onClick={() => handleMarkAsRead(reading_time, id)}
           className="btn btn-outline">
           Mark as read
         </button>
