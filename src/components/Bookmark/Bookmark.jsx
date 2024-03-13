@@ -4,7 +4,7 @@ export default function Bookmark({ bookmark }) {
   const { title } = bookmark;
   return (
     <div className="bg-slate-200 p-4 m-4 rounded-md">
-      <h3 className="text-lg font-bold">{title}</h3>
+      <h3 className="text-base font-bold">{title}</h3>
     </div>
   );
 }

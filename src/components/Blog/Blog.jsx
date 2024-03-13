@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 
-export default function Blog({ blog, handleAddToBookmark }) {
+export default function Blog({ blog, handleAddToBookmark, handleMarkAsRead }) {
   const {
     title,
     cover_img,
@@ -57,7 +57,11 @@ export default function Blog({ blog, handleAddToBookmark }) {
             </a>
           ))}
         </div>
-        <button className="btn btn-outline">Mark as read</button>
+        <button
+          onClick={() => handleMarkAsRead(reading_time)}
+          className="btn btn-outline">
+          Mark as read
+        </button>
       </div>
     </div>
   );
@@ -66,4 +70,5 @@ export default function Blog({ blog, handleAddToBookmark }) {
 Blog.propTypes = {
   blog: PropTypes.object.isRequired,
   handleAddToBookmark: PropTypes.func.isRequired,
+  handleMarkAsRead: PropTypes.func.isRequired,
 };
