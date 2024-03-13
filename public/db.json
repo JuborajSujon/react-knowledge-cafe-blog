@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://picsum.photos/800",
+    "title": "The Art of Learning",
+    "author": "John Doe",
+    "author_img": "https://picsum.photos/800",
+    "posted_date": "Mar 15 (3 days ago)",
+    "reading_time": 10,
+    "hashtags": ["education", "self-improvement"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://picsum.photos/800",
+    "title": "Exploring Nature's Wonders",
+    "author": "Jane Smith",
+    "author_img": "https://picsum.photos/800",
+    "posted_date": "Mar 16 (2 days ago)",
+    "reading_time": 15,
+    "hashtags": ["nature", "exploration"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://picsum.photos/800",
+    "title": "The Power of Creativity",
+    "author": "Alice Johnson",
+    "author_img": "https://picsum.photos/800",
+    "posted_date": "Mar 17 (1 day ago)",
+    "reading_time": 12,
+    "hashtags": ["creativity", "inspiration"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://picsum.photos/800",
+    "title": "Healthy Living Habits",
+    "author": "Robert Brown",
+    "author_img": "https://picsum.photos/800",
+    "posted_date": "Mar 18 (Today)",
+    "reading_time": 8,
+    "hashtags": ["health", "wellness"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://picsum.photos/800",
+    "title": "Discovering Inner Peace",
+    "author": "Emily Wilson",
+    "author_img": "https://picsum.photos/800",
+    "posted_date": "Mar 14 (4 days ago)",
+    "reading_time": 5,
+    "hashtags": ["mindfulness", "meditation"]
+  },
+  {
+    "id": 6,
+    "cover_img": "https://picsum.photos/800",
+    "title": "The Science of Happiness",
+    "author": "Michael Davis",
+    "author_img": "https://picsum.photos/800",
+    "posted_date": "Mar 13 (5 days ago)",
+    "reading_time": 20,
+    "hashtags": ["psychology", "happiness"]
+  },
+  {
+    "id": 7,
+    "cover_img": "https://picsum.photos/800",
+    "title": "Unlocking Your Potential",
+    "author": "Jessica Parker",
+    "author_img": "https://picsum.photos/800",
+    "posted_date": "Mar 12 (6 days ago)",
+    "reading_time": 18,
+    "hashtags": ["personal-development", "growth"]
+  },
+  {
+    "id": 8,
+    "cover_img": "https://picsum.photos/800",
+    "title": "The Joy of Cooking",
+    "author": "David Anderson",
+    "author_img": "https://picsum.photos/800",
+    "posted_date": "Mar 11 (1 week ago)",
+    "reading_time": 12,
+    "hashtags": ["cooking", "recipes"]
+  },
+  {
+    "id": 9,
+    "cover_img": "https://picsum.photos/800",
+    "title": "Finding Balance in Life",
+    "author": "Sophia Lee",
+    "author_img": "https://picsum.photos/800",
+    "posted_date": "Mar 10 (1 week ago)",
+    "reading_time": 14,
+    "hashtags": ["balance", "lifestyle"]
+  },
+  {
+    "id": 10,
+    "cover_img": "https://picsum.photos/800",
+    "title": "Journey Through History",
+    "author": "William Johnson",
+    "author_img": "https://picsum.photos/800",
+    "posted_date": "Mar 9 (1 week ago)",
+    "reading_time": 25,
+    "hashtags": ["history", "heritage"]
+  }
+]
